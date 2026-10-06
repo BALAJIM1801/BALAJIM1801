@@ -1,265 +1,317 @@
-<h1 align="center">BALAJI M</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Founder @ Zivora Technologies · Full Stack Developer · Product Builder</strong>
-</p>
+<!-- HERO -->
 
-<p align="center">
-  <em>Building software that turns real-world problems into useful digital products.</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,50:18181B,100:4C1D95&text=BALAJI%20M&fontColor=FFFFFF&fontSize=58&fontAlignY=40&desc=FOUNDER%20%E2%80%A2%20FULL%20STACK%20DEVELOPER%20%E2%80%A2%20PRODUCT%20BUILDER&descAlignY=62&descSize=16&animation=twinkling"/>
 
-<p align="center">
-  <a href="https://balazportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://zivoratech.netlify.app/">
-    <img src="https://img.shields.io/badge/ZIVORA_TECHNOLOGIES-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" alt="Zivora Technologies">
-  </a>
-  <a href="https://www.linkedin.com/in/balajim1805/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BALAJIM1801&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile views">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Digital+Products+%E2%9A%A1;Engineering+Modern+Web+Experiences+%F0%9F%8C%90;Founder+%40+Zivora+Technologies+%F0%9F%9A%80;Turning+Ideas+Into+Production+Systems+%F0%9F%A7%A0" />
+
+<br><br>
+
+<a href="https://balazportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+&nbsp;
+<a href="https://zivoratech.netlify.app/">
+<img src="https://img.shields.io/badge/ZIVORA-7C3AED?style=for-the-badge&logo=rocket&logoColor=white">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/balajim1805/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
 
 ---
 
-## ⚡ Who I Am
-
-I'm **Balaji M**, a Full Stack Developer and the founder of **Zivora Technologies**, building modern software products, web applications, automation systems, and digital experiences.
-
-I enjoy taking an idea from **concept → architecture → development → deployment** and turning it into something people can actually use.
+# ◈ SYSTEM.IDENTITY
 
 ```text
-                    BALAJI M
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
-       BUILD        SOLVE        SHIP
-          │            │            │
-     Full Stack    Real-world    Production
-     Software      Problems      Products
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   USER                    ROLE                     STATUS      │
+│   ───────────────────────────────────────────────────────     │
+│   BALAJI M                 FOUNDER / ENGINEER       ONLINE    │
+│                                                              │
+│   ORGANIZATION             DOMAIN                   MODE       │
+│   ───────────────────────────────────────────────────────     │
+│   ZIVORA TECHNOLOGIES      SOFTWARE                BUILD      │
+│                                                              │
+│   LOCATION                 SPECIALIZATION                      │
+│   ───────────────────────────────────────────────────────     │
+│   TAMIL NADU, INDIA        FULL STACK / PRODUCT ENGINEERING   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-### What I Build
+I'm **Balaji M**, Founder of **Zivora Technologies** and a Full Stack Developer focused on building modern software products.
 
-* 🚀 Full-stack web applications
-* 🧩 Software tools & platforms
-* ⚙️ Automation systems
-* 🎨 Modern UI/UX experiences
-* 🔐 Security-focused applications
-* ♿ Accessibility solutions
-* 🌐 Digital products for businesses
+My approach is simple:
+
+```text
+             IDEA
+              │
+              ▼
+         ┌──────────┐
+         │  DESIGN  │
+         └────┬─────┘
+              │
+              ▼
+         ┌──────────┐
+         │ ENGINEER │
+         └────┬─────┘
+              │
+              ▼
+         ┌──────────┐
+         │   TEST   │
+         └────┬─────┘
+              │
+              ▼
+         ┌──────────┐
+         │   SHIP   │
+         └────┬─────┘
+              │
+              ▼
+            IMPACT
+```
 
 ---
 
-## 🏢 Zivora Technologies
+# ◈ ZIVORA TECHNOLOGIES
 
-**Zivora Technologies** is my software venture focused on building practical digital solutions.
+<div align="center">
 
-> **Idea → Engineering → Product → Impact**
+### `SOFTWARE • AUTOMATION • DIGITAL PRODUCTS`
 
-Our work spans:
+</div>
 
-`Web Development` · `Software Development` · `Automation` · `Mobile Apps` · `UI/UX` · `IT Solutions`
+**Zivora Technologies** is my technology venture focused on creating practical software solutions, digital products, automation systems and modern web experiences.
 
-🌐 **[zivoratech.netlify.app](https://zivoratech.netlify.app/)**
+```text
+                 ZIVORA
+                   ◇
+        ┌──────────┼──────────┐
+        │          │          │
+      WEB        SOFTWARE   AUTOMATION
+        │          │          │
+        └──────────┼──────────┘
+                   │
+                 PRODUCT
+```
+
+🌐 **[Explore Zivora Technologies](https://zivoratech.netlify.app/)**
 
 ---
 
-# 🚀 Selected Projects
+# ◈ PROJECT.ENGINE
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
+
+|     PROJECT     |       SYSTEM       |        FOCUS        |
+| :-------------: | :----------------: | :-----------------: |
+|   🔐 **WipeX**  | Secure Data Wiping |       Security      |
+|  ♿ **DotWave**  |   Voice → Braille  |    Accessibility    |
+| 🎯 **CTECH'26** |   Event Platform   |      React / UI     |
+|  🏢 **Zivora**  |  Digital Products  | Product Engineering |
+
+</div>
 
 ### 🔐 WipeX
 
-**Secure Data Wiping Platform**
+> **Secure Data Wiping for Trustworthy IT Asset Recycling**
 
-A cross-platform secure erasure solution designed around **NIST SP 800-88** principles for trustworthy IT asset recycling.
+Cross-platform secure erasure software based around **NIST SP 800-88** principles.
 
-**Focus:** Security · Data Sanitization · Compliance
+`Security` `Data Sanitization` `IT Asset Recycling` `Compliance`
 
-</td>
-
-<td width="50%">
+---
 
 ### ♿ DotWave
 
-**Voice → Braille Accessibility**
+> **Voice → Braille Accessibility Platform**
 
-An accessibility-focused platform designed to bridge voice interaction and Braille output.
+An accessibility-focused system designed to bridge voice interaction with Braille output.
 
-**Focus:** Accessibility · Voice Processing · Assistive Technology
+`Accessibility` `Voice Processing` `Assistive Technology`
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 ### 🎯 CTECH'26
 
-**Technical Symposium Platform**
+> **Interactive Technical Symposium Platform**
 
-A modern event platform built with React and Tailwind CSS with a focus on interactive UI and smooth user experience.
+Modern event experience built using React, Tailwind CSS and interactive motion.
 
-**Focus:** React · UI/UX · Motion · Event Technology
-
-</td>
-
-<td width="50%">
-
-### 🏢 Zivora Technologies
-
-**Software Product Ecosystem**
-
-A growing technology venture focused on creating websites, applications, automation systems and software products.
-
-**Focus:** Product Engineering · Business · Software
-
-</td>
-</tr>
-</table>
+`React` `Tailwind` `Framer Motion` `UI/UX`
 
 ---
 
-# 🧠 Engineering Stack
+# ◈ TECH.ARSENAL
 
-### Frontend
+<div align="center">
 
-<p>
+### FRONTEND
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
-</p>
 
-### Backend
+<br><br>
 
-<p>
+### BACKEND
+
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express" />
-</p>
 
-### Database & Infrastructure
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgres,git,github,vercel,netlify" />
-</p>
+### DATA / INFRASTRUCTURE
 
-### Creative & Interaction
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,git,github,vercel,netlify" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma,framer,threejs" />
-</p>
+<br><br>
+
+### CREATIVE ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=figma,threejs,framer" />
+
+</div>
 
 ---
 
-# 🛠️ How I Think About Engineering
+# ◈ ENGINEERING.MINDSET
 
 ```text
-Problem
-   ↓
-Understand
-   ↓
-Design
-   ↓
-Architect
-   ↓
-Build
-   ↓
-Test
-   ↓
-Deploy
-   ↓
-Improve
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│     PROBLEM                                          │
+│       ↓                                              │
+│     RESEARCH                                         │
+│       ↓                                              │
+│     ARCHITECTURE                                     │
+│       ↓                                              │
+│     DEVELOPMENT                                      │
+│       ↓                                              │
+│     VALIDATION                                       │
+│       ↓                                              │
+│     DEPLOYMENT                                       │
+│       ↓                                              │
+│     ITERATION                                        │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
 ```
 
-I care about:
+### Core principles
 
-**Clean Architecture** · **Performance** · **Security** · **Scalability** · **User Experience**
-
----
-
-# 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BALAJIM1801&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BALAJIM1801&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BALAJIM1801&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
+`01` — Build for real problems
+`02` — Keep architecture maintainable
+`03` — Design before over-engineering
+`04` — Validate before scaling
+`05` — Ship useful software
+`06` — Continuously improve
 
 ---
 
-# 🌌 Current Direction
+# ◈ GITHUB.TELEMETRY
 
-I'm currently exploring the intersection of:
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BALAJIM1801&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C3AED&text_color=FFFFFF"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=BALAJIM1801&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=00D4FF&currStreakLabel=FFFFFF"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BALAJIM1801&bg_color=0D1117&color=FFFFFF&line=7C3AED&point=00D4FF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# ◈ CURRENT.MISSION
 
 ```text
-Full Stack Engineering
-        +
-AI Systems
-        +
-Automation
-        +
-Product Engineering
-        ↓
-Intelligent Software Products
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  FULL STACK ENGINEERING                                    │
+│             +                                              │
+│  AI / INTELLIGENT SYSTEMS                                  │
+│             +                                              │
+│  AUTOMATION                                                │
+│             +                                              │
+│  PRODUCT ENGINEERING                                      │
+│             │                                              │
+│             ▼                                              │
+│       ┌───────────────┐                                    │
+│       │   INTELLIGENT │                                    │
+│       │    SOFTWARE   │                                    │
+│       │    PRODUCTS   │                                    │
+│       └───────────────┘                                    │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 ```
 
-The goal isn't simply to build another application.
+I'm interested in building systems that go beyond being **just another application**.
 
-**The goal is to build software that is genuinely useful.**
+The goal:
 
----
-
-# 🏆 Highlights
-
-* 🏢 Founder — **Zivora Technologies**
-* 💻 Full Stack Developer
-* 🏅 Best Coder Award — Python Coding Event
-* 🧠 Presented **Hacker Hunter** at ICSCT'25
-* 🚀 Participated in National Hackathon — ICT Academy
-* 🎯 Event Coordinator — CTECH'25
-* 🛠️ Builder of multiple real-world software projects
+> **Build software people actually need.**
 
 ---
 
-# 📈 My Builder Philosophy
+# ◈ ACHIEVEMENTS.LOG
 
-> **Don't just learn technology. Build with it.**
-
-> **Don't just write code. Solve problems.**
-
-> **Don't just ship projects. Create products.**
+```text
+[✓] Founder — Zivora Technologies
+[✓] Full Stack Developer
+[✓] Best Coder Award — Python Coding Event
+[✓] Paper Presentation — Hacker Hunter — ICSCT'25
+[✓] National Hackathon — ICT Academy
+[✓] Event Coordinator — CTECH'25
+[✓] Multiple Software & Product Projects
+```
 
 ---
 
-# 🤝 Let's Connect
+# ◈ VISUAL.IDENTITY
 
-<p align="center">
-  <a href="https://balazportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-00D4FF?style=for-the-badge" />
-  </a>
-  <a href="https://zivoratech.netlify.app/">
-    <img src="https://img.shields.io/badge/🚀_Zivora-Explore-7C3AED?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/balajim1805/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.instagram.com/v3_violenter/">Instagram</a>
-  ·
-  <a href="https://github.com/BALAJIM1801">GitHub</a>
-  ·
-  <a href="https://balazportfolio.netlify.app/">Portfolio</a>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=BALAJIM1801&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 
-<p align="center">
-  <strong>Building. Shipping. Evolving. 🚀</strong>
-</p>
+</div>
+
+---
+
+# ◈ CONNECT.NODE
+
+<div align="center">
+
+<a href="https://balazportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-00D4FF?style=for-the-badge">
+</a>
+
+<a href="https://zivoratech.netlify.app/">
+<img src="https://img.shields.io/badge/%F0%9F%9A%80_ZIVORA-7C3AED?style=for-the-badge">
+</a>
+
+<a href="https://www.linkedin.com/in/balajim1805/">
+<img src="https://img.shields.io/badge/%F0%9F%94%97_LINKEDIN-0A66C2?style=for-the-badge">
+</a>
+
+<a href="https://www.instagram.com/v3_violenter/">
+<img src="https://img.shields.io/badge/%F0%9F%93%B8_INSTAGRAM-E4405F?style=for-the-badge">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `BUILD • SOLVE • SHIP • EVOLVE`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,50:18181B,100:09090B"/>
+
+</div>
